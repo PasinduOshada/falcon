@@ -1,0 +1,7 @@
+name = "falcon-track"
+main = "worker.js"
+compatibility_date = "2026-05-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "falcon-db"
