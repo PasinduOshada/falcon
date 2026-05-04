@@ -1,3 +1,8 @@
 name = "falcon-logs"
 main = "worker.js"
 compatibility_date = "2026-05-01"
+
+[[d1_databases]]
+binding = "falcon_db"
+database_name = "falcon-db"
+database_id = "f1e14f55-00f7-4826-b92d-7a96062e2fe7"
